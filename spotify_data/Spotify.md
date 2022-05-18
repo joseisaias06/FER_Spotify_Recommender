@@ -1,0 +1,1 @@
+Información sobre el historial usuarios de Spotify, aquí obtenemos los Top_tracks, Top_artist, Playlist, Playlist_tracks, Saved_tracks y Recommendation_tracks, previamente formateados para tenerlos como DataFrame
